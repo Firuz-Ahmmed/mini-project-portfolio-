@@ -1,0 +1,39 @@
+body{ 
+    background-image:url("style.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: absolute;
+	background-size: 100% 150%;
+	
+}
+h1{
+	font-size:200%;
+	font-style:bold;	
+	text-align:center;
+	color:black;
+	
+}
+h2,h3{
+	font-style:bold;
+	font-size:150%;
+}
+.edu{
+      top:40px;
+	  width:750px;
+	  color:black;
+	  position:left;
+	  height:300px;
+}
+p{
+	font-size: 100%;
+	font-style: oblique;
+	margin-left:250px;
+}
+.interest{
+      top:300px;
+	  width:500px;
+	  color:black;
+	  position:absolute;
+	  height:200px;
+	  left:800px;
+}

@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: black;
+    width:100%;
+}
+
+li {
+    float: left;
+   
+}
+li a.active {
+    background-color: black;
+    color: white;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: gray;
+}
+.header{
+       width:100%;
+
+       background-color:black;
+}
+p{
+	margin-right:600px;
+	color:black;
+	background-color:white;
+	font-size: 200%;
+	font-style: oblique;
+}
+    
